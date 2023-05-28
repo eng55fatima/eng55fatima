@@ -1,4 +1,4 @@
-### Hi there 👋, I'M Fatima Al-Moustafa
+### Hi👋, I'M Fatima Al-Moustafa
 #### I'm Flutter Developer👩‍
 ![I'm Flutter Developer](https://media.licdn.com/dms/image/C4E16AQEEHgFUx9o4pg/profile-displaybackgroundimage-shrink_350_1400/0/1651226431144?e=1691020800&v=beta&t=UcEsnM2wyy_KKI7lsmS_MnnaxGu5nMs6tEV2TDoAeyY)
 
